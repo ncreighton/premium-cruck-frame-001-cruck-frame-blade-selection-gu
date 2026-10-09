@@ -1,0 +1,2 @@
+# premium-cruck-frame-001-cruck-frame-blade-selection-gu
+Choosing the right blade for your cruck frame build shouldn't require hours of research across scattered sources. This Notion template consolidates every selection variable you need in one interactive, decision-ready workspace.  The Cruck Frame Blade Selection Guide eliminates guesswork by organizing frame specifications, blade materials, weight di
